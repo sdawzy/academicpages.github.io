@@ -27,6 +27,20 @@ $(document).ready(function () {
     toggleTheme();
   });
 
+  // Language menu toggle
+  $('#lang-toggle').on('click', function () {
+    // e.preventDefault();
+    console.log("Language icon clicked");
+    $('#lang-menu').toggle();
+  });
+
+  // Close language menu if clicking outside
+  $(document).on('click', function (e) {
+    if (!$(e.target).closest('#lang-toggle').length) {
+      $('#lang-menu').hide();
+    }
+  });
+
   // These should be the same as the settings in _variables.scss
   const scssLarge = 925; // pixels
 
