@@ -1,14 +1,19 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Selected Projects"
+permalink: /projects/
 author_profile: true
+redirect_from: 
+  - /portfolio/
 ---
 
 {% include base_path %}
 
-
-{% for post in site.portfolio %}
+{% assign sorted_portfolio = site.portfolio | sort: "importance" | reverse %}
+{% for post in sorted_portfolio %}
   {% include archive-single.html %}
 {% endfor %}
+<!-- {% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %} -->
 

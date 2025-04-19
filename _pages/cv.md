@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<iframe src="/files/Yue-Zhang-Resume-20250419.pdf" width="100%" height="600px"></iframe>
+
+<!-- <embed src="files/Yue_Zhang_Resume_20250419.pdf" type="application/pdf" width="100%" height="600px" /> -->
+
+
+<!-- 
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -61,4 +67,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

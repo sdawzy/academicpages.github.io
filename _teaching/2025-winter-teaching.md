@@ -12,8 +12,6 @@ Instructed lab sessions of ITI1121 - Intro to Computing II (Intro to Java Progra
 
 My Duties
 ======
-My Duties
-======
 - Conduct lab sessions assisting students with course concepts and programming exercises.
 - Respond to students' questions via email and office hours, providing clear and supportive explanations.
 - Evaluate and grade student work, offering detailed and timely feedback to enhance their understanding.

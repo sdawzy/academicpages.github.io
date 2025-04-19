@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yue Zhang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "Any Pronoun"  
   # bio              : "Short biography for the left-hand sidebar"
   location         : "Ottawa, Canada"
   employer         : "University of Ottawa"
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  # bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "yuezhang.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -85,6 +85,9 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+# project_category:
+#   personal:
+#     title: ''
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
