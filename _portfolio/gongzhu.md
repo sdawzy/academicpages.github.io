@@ -3,6 +3,7 @@ title: "Gongzhu AI"
 excerpt: "An AI for card game Gongzhu with GUI<br/><img src='/images/gongzhu-game-table-500x300.png'>"
 collection: portfolio
 importance: 10
+date: 2025-04-09
 language: en
 ---
 <img src='/images/gongzhu-game-table-500x300.png'>
